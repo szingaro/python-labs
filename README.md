@@ -6,7 +6,7 @@ Computer Science and Engineering, University of Bologna**.
 [Professor Simone Martini](http://cs.unibo.it/~martini) helds the first part of the course, [Professor Maurizio
 Gabbrielli](http://cs.unibo.it/~gabbri) helds the second part.
 
-## Handouts
+##### Handouts
 
 These handouts represent any miscellaneous information we need to communicate with you. Usually, these handouts contain logistical instructions, but anything goes!
 
@@ -15,10 +15,10 @@ These handouts represent any miscellaneous information we need to communicate wi
 | 5   | [Installing Python for Windows](https://github.com/stanfordpython/python-handouts/blob/master/installing-python-windows.md) |
 | 4   | [Installing Python for Linux](https://github.com/stanfordpython/python-handouts/blob/master/installing-python-linux.md)     |
 | 3   | [Installing Python for macOS](ttps://github.com/stanfordpython/python-handouts/blob/master/installing-python-macos.md)      |
-| 2   | [Syllabus](http://www.cs.unibo.it/~martini/AI/schedule.html)                                                                   |
+| 2   | [Syllabus](http://www.cs.unibo.it/~martini/AI/schedule.html)                                                                |
 | 1   | [Course Information](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2019/446600)                        |
 
-## Readings
+##### Readings
 
 These optional reading materials are posted to supplement the course material for those who are very interested in Python. You will not be held responsible for any information presented only through optional readings; however, the material is fascinating and worth looking at. Currently, it's just a list of articles I find interesting - there may be more structure in the future.
 
@@ -33,7 +33,7 @@ These optional reading materials are posted to supplement the course material fo
 | 2   | [PEP 8: Python Style Guide](https://www.python.org/dev/peps/pep-0008/)                                     | Guido van Rossum |
 | 1   | [PEP 20: The Zen of Python](https://www.python.org/dev/peps/pep-0020/)                                     | Tim Peters       |
 
-## Labs
+##### Labs
 
 Labs provide a hands-on opportunity to experiment with the Python concepts presented in lectures. Although students work on these labs during an 90-minute class period, it would take much longer to fully complete a lab. Each lab comes with a number of challenge problems that will take even the experiences programmer nontrivial time. Labs are collaborative and open-ended, frequently asking you to think about how or why Python makes the decisions it does.
 
@@ -41,7 +41,8 @@ Each problem is chosen to reinforce a particular concept, but you are free to sk
 
 Are you so quick in learning? Do you feel like you already know everything? Check out what Python offers you at [Learn X in Y minutes](https://learnxinyminutes.com/docs/python3/).
 
-| #   | Topic + Slides deck                                                                                       | Handout                                                                                                                              | Solutions |
-| --- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------- |
-| 2   | [Iterations and Immutables](https://www.dropbox.com/s/8er7r0wn9gir8b1/002_iterations_immutables.pdf?dl=0) | [Handout](https://github.com/szingaro/python-labs/blob/master/notebooks/002-datastructures.ipynb) | -         |
-| 1   | [Introducing lab and Python](https://www.dropbox.com/s/c02mqv85y1wl2jl/main.pdf?dl=0)                     | -                                                                                                                                    | -         |
+| #   | Topic + Slides deck                                                                               | Handout                                                                                           | Solutions                                                                                   |
+| --- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 3   | [Data Structures (part II) - Lists](https://www.dropbox.com/s/is63hvds29oovy1/003_Lists.pdf?dl=0) | -                                                                                                 | -                                                                                           |
+| 2   | [Data Structures](https://www.dropbox.com/s/8er7r0wn9gir8b1/002_data_structure.pdf?dl=0)          | [Handout](https://github.com/szingaro/python-labs/blob/master/notebooks/002-datastructures.ipynb) | [Solutions](https://github.com/szingaro/python-labs/blob/master/solutions/002/solutions.py) |
+| 1   | [Introducing lab and Python](https://www.dropbox.com/s/c02mqv85y1wl2jl/main.pdf?dl=0)             | -                                                                                                 | -                                                                                           |
