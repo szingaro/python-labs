@@ -28,3 +28,7 @@ Again, you have 2 ways to interact with **Python Notebooks** (well, you have a m
 - Second, you can _copy and paste_ the content of `code cells` into your favorite **IDE** and execute it as usual.
   
   - **GitHub** nicely provides you a viewer for `Python Notebooks` that ease the process of _copy/paste_ (otherwise it would be just an unreadable full-of-code meaningless page).
+
+### Important Notice
+
+**DO NOT FORK THE REPOSITORY** unless you know what you are doing! Otherwise you will lose updates from the original fork (mine).
