@@ -7,3 +7,4 @@ notebooks/.ipynb_checkpoints/
 
 .vscode/
 .DS_Store
+notebooks/005-numpy.ipynb
